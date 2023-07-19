@@ -1,0 +1,5 @@
+# 🤝 Verkoper
+
+
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Een nieuwe klant / project aanmaken (Residentieel)</td><td><a href="een-nieuwe-klant-project-aanmaken-residentieel/">een-nieuwe-klant-project-aanmaken-residentieel</a></td></tr><tr><td>Een nieuwe klant / project aanmaken (Commercieel)</td><td><a href="een-nieuwe-klant-project-aanmaken-commercieel.md">een-nieuwe-klant-project-aanmaken-commercieel.md</a></td></tr><tr><td>Een legplan maken</td><td><a href="een-legplan-maken.md">een-legplan-maken.md</a></td></tr><tr><td>Een offerte opstellen</td><td><a href="een-offerte-opstellen/">een-offerte-opstellen</a></td></tr><tr><td>Lijsten filteren en filters opslaan (Filters &#x26; Sjablonen)</td><td><a href="lijsten-filteren-en-filters-opslaan-filters-and-sjablonen.md">lijsten-filteren-en-filters-opslaan-filters-and-sjablonen.md</a></td></tr><tr><td>Tickets</td><td><a href="tickets/">tickets</a></td></tr></tbody></table>

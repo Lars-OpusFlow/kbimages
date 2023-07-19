@@ -1,0 +1,5 @@
+# 🗓 Planner
+
+
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Werknemers organiseren</td><td><a href="werknemers-organiseren.md">werknemers-organiseren.md</a></td></tr><tr><td>Werknemers inplannen</td><td><a href="werknemers-inplannen.md">werknemers-inplannen.md</a></td></tr><tr><td>Projecten inplannen per team</td><td><a href="projecten-inplannen-per-team.md">projecten-inplannen-per-team.md</a></td></tr><tr><td>Uren plannen</td><td><a href="uren-plannen.md">uren-plannen.md</a></td></tr><tr><td>Werknemers individueel inplannen met groepen</td><td><a href="werknemers-individueel-inplannen-met-groepen.md">werknemers-individueel-inplannen-met-groepen.md</a></td></tr><tr><td>Individuele werknemers inplannen (teams)</td><td><a href="individuele-werknemers-inplannen-teams.md">individuele-werknemers-inplannen-teams.md</a></td></tr><tr><td>Tickets</td><td><a href="tickets/">tickets</a></td></tr></tbody></table>
